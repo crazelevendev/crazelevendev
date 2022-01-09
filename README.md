@@ -18,13 +18,6 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="CrazElevenDev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=crazelevendev&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://craz.fr
 [twitter]: https://twitter.com/crazelevendev
 [youtube]: https://www.youtube.com/channel/UCNolfskP9lqhDqnIqfwrM4A?sub_confirmation=1
