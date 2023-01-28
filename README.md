@@ -3,9 +3,9 @@
 ## I'm a Student, Developer, and an anime fan !!
 
 - 🥖 I am just a french dude
-- 🌱 Right now i'm learning Java and C++
-- 🥅 2022 Goal: Being more active LOL
-- ⚡ Fun fact: I like drawing, and playing osu! !
+- 🌱 Right now i'm learning things
+- 🥅 2023 Goal: Being more active LOL
+- ⚡ Fun fact: I have no ideas
 - ❤️ Animes i've seen : https://myanimelist.net/animelist/CrazEleven
 
 ### Connect with me:
@@ -18,7 +18,7 @@
 
 <br />
 
-[website]: https://craz.fr
+<!-- [website]: https://craz.fr -->
 [twitter]: https://twitter.com/crazelevendev
 [youtube]: https://www.youtube.com/channel/UCNolfskP9lqhDqnIqfwrM4A?sub_confirmation=1
 [anilist]:https://myanimelist.net/animelist/CrazEleven
