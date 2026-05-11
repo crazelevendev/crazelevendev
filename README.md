@@ -4,9 +4,6 @@
 
 - 🥖 I am just a french dude
 - 🌱 Right now i'm learning things
-- 🥅 2023 Goal: Being more active LOL
-- ⚡ Fun fact: I have no ideas
-- ❤️ Animes i've seen : https://myanimelist.net/animelist/CrazEleven
 
 ### Connect with me:
 
